@@ -7,9 +7,6 @@ Easy Shopping Via Mobile é uma landing page minimalista desenvolvida com **HTML
 - **HTML5**
 - **CSS3**
 
-## 🎨 Captura de Tela
-![Easy Shopping Via Mobile](./assets/captura-tela.png)
-
 ## 📂 Estrutura do Projeto
 ```
 Easy-Shopping-Via-Mobile/
